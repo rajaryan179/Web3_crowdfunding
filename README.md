@@ -19,4 +19,3 @@ Deploy the contracts to your prefer test net and run the script to update the fr
 
 - brownie run scripts/update_frontend --network yourNetwork.
 
-### Enjoy!
