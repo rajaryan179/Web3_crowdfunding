@@ -1,0 +1,16 @@
+{
+  "5": {
+    "CrowdFundingV1": [
+      "0x3fbA78E322A90e7E5Eb5579F3AFB14B2bD204039"
+    ],
+    "CrowdFundingV2": [
+      "0x39f45800BF2f17464aD13DA9EbC7dC24bC7FF935"
+    ],
+    "ProxyAdmin": [
+      "0x9c25587EAB78f67a099e59Ea27895DE07fa6f577"
+    ],
+    "UpgradeableProxy": [
+      "0x8137bC2ad29167151Da978d21349969Ec0e42022"
+    ]
+  }
+}
